@@ -194,5 +194,10 @@ public class TestRunnerAll {
 	{
 		
 	}
+	public void work1()
+	
+	{
+		
+	}
 
 }
